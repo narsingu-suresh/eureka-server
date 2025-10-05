@@ -1,2 +1,2 @@
-# discovery-service
- discovery Service
+# eureka-server
+ eureka-server
